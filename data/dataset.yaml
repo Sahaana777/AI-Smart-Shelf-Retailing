@@ -1,0 +1,13 @@
+path: ./data/processed
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Oreo
+  1: GoodDay
+  2: Bourbon
+  3: HideSeek
+  4: MarieGold
+  5: ParleG
