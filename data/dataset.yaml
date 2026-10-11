@@ -5,9 +5,9 @@ val: images/val
 test: images/test
 
 names:
-  0: Oreo
-  1: GoodDay
-  2: Bourbon
-  3: HideSeek
-  4: MarieGold
-  5: ParleG
+  0: Lays-orange
+  1: Coca Cola
+  2: Sprite
+  3: Tiffin box
+  4: Kurkere-green
+  5: Waterbottle
